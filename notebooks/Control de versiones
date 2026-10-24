@@ -1,3 +1,5 @@
 Entregable 2 V1: Es en su base mas simple los requerimientos minimos necesarios para cumplir con la rubrica
 
 Entregable 2 V1.2: se agrego una celda final de la notebook de Google Colab para que ejecute automáticamente la batería de pruebas (incluyendo las 30 corridas estadísticas, el bloqueo inviable y el apagón orbital) y se imprima la tabla resumen en vivo depues del entregable 2
+
+Entregable 2 V1.6: Celda Generadora de Gráficas y Tablas del Entregable 4
